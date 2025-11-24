@@ -1,0 +1,5 @@
+{
+  "name": "ML Academy",
+  "description": "A modern, glassmorphism-styled video course platform built with React, TypeScript and Tailwind CSS. Features include a custom video player, course navigation, and AI-powered lesson assistance.",
+  "requestFramePermissions": []
+}
